@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 100%;
+  overflow-x: hidden;
+}
